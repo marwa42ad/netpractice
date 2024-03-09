@@ -1,0 +1,2 @@
+# netpractice
+network config
